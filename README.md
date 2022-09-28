@@ -1,2 +1,2 @@
-# Little-Little-Projects
-Very basic projects.
+# Daily Practice Questions I Have Solved.
+
