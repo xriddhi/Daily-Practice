@@ -19,6 +19,15 @@ public class Practice29Sep22 {
         //f+d=d
         // b=byte,c=char,d=double,l=long,s=short,i=int,f=float
         
+        //Topic 3. Increment And Decrement
+        // int i=26
+        // System.out.println(i++); 
+        //(will give me 26 as output) kyuki baad mein increment hoga
+        // System.out.println(++i);
+        //(will give me 27 as output)kyuki pehle increment hoga
+        
+        
+        
         
 
 
