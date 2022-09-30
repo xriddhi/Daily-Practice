@@ -35,6 +35,16 @@ public class Practice30Sep22 {
         }else{
             System.out.println("Correct!");
         }
+        
+        
+       //4. Writing Mathematical Questions In java:
+
+        Scanner sca = new Scanner(System.in);
+        System.out.println("Enter Number 01:");
+        int numOneUser = sc.nextInt();
+        System.out.println("Enter Number 02:");
+        int numTwoUser = sc.nextInt();
+        int expression = 
 
     }
 }
