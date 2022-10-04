@@ -33,7 +33,24 @@ public class Practice1Oct22 {
         System.out.println(name.replace('r','p')); //it will replace r with p
         
      
-        //4.
+      // 4 oct
+        String name = "Riddhid";
+        System.out.prinln(name.indexOf("d",4));
+        //output- 6
+        
+        System.out.println(name.lastIndexOf("d");
+                           //output 6 kyuki last mein aa raha hai d
+                           
+                           System.out.println(name.equals("Riddhid"));
+                           //output true
+                           System.out.println(name.equals("riddhi"));
+                           //output false cuse case sensitive
+                            //use 
+                           System.out.println(name.equalsIgnoreCase("riddhi"));
+                           
+                           
+                           
+                           
         
   
         
