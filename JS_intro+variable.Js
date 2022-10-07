@@ -1,8 +1,12 @@
 //6 Oct 2022
-//Intro to Javascript
-// Var Vs Let vs Const
+//1.Intro to Javascript
+
+//7 Oct 2022
+//2. Var Vs Let vs Const
 
 console log("Hi!")
+
+
 console.log("Var Vs Let Vs Const")
 var a= 17;
 var a="Riddhi";
