@@ -34,6 +34,7 @@ public class Practice1Oct22 {
         
      
       // 4 oct
+        
         String name = "Riddhid";
         System.out.prinln(name.indexOf("d",4));
         //output- 6
@@ -47,6 +48,9 @@ public class Practice1Oct22 {
                            //output false cuse case sensitive
                             //use 
                            System.out.println(name.equalsIgnoreCase("riddhi"));
+                           
+                           
+                           
                            
                            
                            
