@@ -45,3 +45,7 @@ const e=18;
 console.log(e)
 
 //scope lies within block
+
+//Practice=
+let one = Riddhi;
+one=1;
