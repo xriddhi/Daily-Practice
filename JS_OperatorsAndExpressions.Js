@@ -20,3 +20,4 @@ console.log("The value of a is ",a);
 console.log("The value of a+b is ",a--); //pehle print fir minus
 console.log("The value of ++a is ",++a);//pehle add fir print
 console.log("The value of --a is ",--a);//pehle minus fir print
+
