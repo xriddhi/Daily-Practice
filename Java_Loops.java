@@ -68,7 +68,29 @@ class Main {
   }
     
       
-      //Q
+      //Q Day of the week
+      
+      public static void main(String[]args){
+    Scanner sc = new Scanner(System.in);
+    int day = sc.nextInt();
+    switch (day){
+        Case 1-> System.out.println("Monday");
+       
+        Case 2-> System.out.println("Tuesday");
+       
+        Case 3-> System.out.println("Wednesday");
+       
+        Case 4-> System.out.println("Thursday");
+        
+        Case 5-> System.out.println("Friday");
+        
+        Case 6-> System.out.println("Saturday");
+       
+        Case 7-> System.out.println("Sunday");
+      
+        
+    }
+  }
       
 
    
