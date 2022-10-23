@@ -47,7 +47,29 @@ class Main {
     }else{
       System.out.println("You fail!");
     }
+      
+      
+      //Question: Income Slab & Tax rate 
+    //take input
+      public static void main(String[]args){
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter Your Income:");
+    double y = sc.nextDouble();
+      
+    if(250000<=y && y< 500000){
+      System.out.println("Tax Rate On Your Income Slab Is 5%");
+    } else if(500000<=y && y< 1000000){
+      System.out.println("Tax Rate On Your Income Slab Is 20%");
+    }else{
+      System.out.println("Tax Rate On Your Income Slab Is 30%");
+    }
     
+    
+  }
+    
+      
+      //Q
+      
 
    
     
