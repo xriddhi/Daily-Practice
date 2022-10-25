@@ -107,7 +107,21 @@ class Main {
       
     }
   }
+      
+       //Question:Types Of Loops= while loop,do-while loop,for loop
+  
+ //while loop
+  
+  public static void main(String[]args){
+    int i = 10;
+    while(i<=100){
+      System.out.println(i);
+      i++;
+    }
+  }
+      
       //
+
 
    
     
