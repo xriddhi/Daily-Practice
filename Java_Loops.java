@@ -120,7 +120,10 @@ class Main {
     }
   }
       
+     
       // do-while loop
+      //while loop mein pehle condition check hoti hai 
+        //do-while loop mein we dont check the limit at first,it is guaranteed to print atleast once
       
       public static void main(String[] args) {
     int a = 0;
@@ -133,11 +136,33 @@ class Main {
 
   }
       
+      
+      //Question: Print first 10 natural numbers
 
-
-   
+  public static void main(String[]args){
+    int a= 1;
+    do{
+      System.out.println(a);
+      a++;
+    }while(a<11);
     
   }
-}
+      
+ //Question:for loop
+  // for (initialize;check.bool.expression;update){
+  // CODE
+ // }
+  
+  public static void main(String[]args){
+    
+    for(int i =0;i<=10;i++){
+      System.out.println(i);
+  }
+  }
+
+      //
+   
+    
+  
     }
 }
