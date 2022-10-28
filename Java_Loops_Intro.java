@@ -207,13 +207,6 @@ class Main {
   }*/
       
       
-      
-      
-      
-      
-      
-
-      
       // Question:Write a program to print first 10 odd numbers using a for loop
 
   public static void main(String[]args){
