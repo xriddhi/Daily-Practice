@@ -163,6 +163,8 @@ class Main {
       //Break & Continue using loops
   
   //Break statement is used to end the loop
+      // continue skips and takes us to next iteration
+      
   
  /* public static void main(String[]args){
     for(int i=1;i<=10;i++){
@@ -175,6 +177,7 @@ class Main {
     }
   }*/
 
+      
   //break in while loop
   /* public static void main(String[]args){
     int i = 1;
@@ -187,6 +190,25 @@ class Main {
       i++;
     }
   }*/
+      
+      
+      // break in do-while loop
+  /*public static void main(String[]args){
+    int i=1;
+    do{
+      System.out.println(i);
+      i++;
+      if(i==5){
+      System.out.println("end.");
+      break;
+    }
+    } while(i<=10);
+    
+  }*/
+      
+      
+      
+      
       
       
       
