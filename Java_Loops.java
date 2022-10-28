@@ -159,6 +159,37 @@ class Main {
       System.out.println(i);
   }
   }
+      
+      //Break & Continue using loops
+  
+  //Break statement is used to end the loop
+  
+ /* public static void main(String[]args){
+    for(int i=1;i<=10;i++){
+      System.out.print("The number is:");
+      System.out.println(i);
+    }
+    if(i==6){
+      System.out.println("Ending the loop");
+      break;
+    }
+  }*/
+
+  //break in while loop
+  /* public static void main(String[]args){
+    int i = 1;
+    while(i<5){
+      System.out.println(i);
+      if(i==2){
+        System.out.println("End.");
+        break;
+      }
+      i++;
+    }
+  }*/
+      
+      
+      
 
       
       // Question:Write a program to print first 10 odd numbers using a for loop
