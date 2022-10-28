@@ -114,22 +114,7 @@ public class Practice5Oct2022 {
   }*/
       
       
-      // Question:Write a program to print first 10 odd numbers using a for loop
-
-  public static void main(String[]args){
-     
-    for(int i=0;i<10;i++){
-      System.out.println(2*i+1);
-    }
-  }
       
-      //Print First 10 natural numbers in reverse order
-
-  public static void main(String[] args){
-    for(int i=10;i>0;i--){
-      System.out.println(i);
-    }
-  }
       //
    
     
