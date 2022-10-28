@@ -53,16 +53,7 @@ public class Practice5Oct2022 {
   }
       
       
-      //Question: Print first 10 natural numbers
-
-  public static void main(String[]args){
-    int a= 1;
-    do{
-      System.out.println(a);
-      a++;
-    }while(a<11);
-    
-  }
+      
       
  //Question:for loop
   // for (initialize;check.bool.expression;update){
