@@ -33,6 +33,22 @@ class Main {
     System.out.println("Enter Your Income:");
     double y = sc.nextDouble();
       
+              
+              //Question:To print this pattern-
+  //****
+  //***
+  //**
+  //*
+
+  public static void main(String[]args){
+    for(int i=4;i>=1;i--){
+      for(int j=1;j<=i;j++){
+        System.out.print("*");
+      }
+     System.out.println("\n");
+      
+    }
+  }
     if(250000<=y && y< 500000){
       System.out.println("Tax Rate On Your Income Slab Is 5%");
     } else if(500000<=y && y< 1000000){
