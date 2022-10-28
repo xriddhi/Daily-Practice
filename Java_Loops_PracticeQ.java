@@ -1,5 +1,5 @@
 
-//2. Practice LOOPS
+// Practice LOOPS
         
         //Question: Pass/fail,total should be greater than or equal to 40% and at least 33% marks should be there in each subject to pass and 
         //input the data of 3 subs and calculate this:
