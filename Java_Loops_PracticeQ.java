@@ -11,6 +11,18 @@
     
   }
 
+//Write a program to print multiplication table of any given number n IN REVERSE ORDER BY TAKING INPUT OF WHICH NUMBER's TABLE U WANT
+
+  public static void main(String[]args){
+    Scanner sc = new Scanner(System.in);
+  
+    int n = sc.nextInt();
+    for(int i=10;i>=1;i--){
+      System.out.println(n*i);
+    }
+    
+  }
+
         //Question: Pass/fail,total should be greater than or equal to 40% and at least 33% marks should be there in each subject to pass and 
         //input the data of 3 subs and calculate this:
         
