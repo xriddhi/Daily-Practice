@@ -1,6 +1,16 @@
 
 // Practice LOOPS
-        
+        //Write a program to print multiplication table of any given number n IN REVERSE ORDER
+
+  public static void main(String[]args){
+    int mul= 0;
+    int n = 10;
+    for(int i=10;i>=1;i--){
+      System.out.println(n*i);
+    }
+    
+  }
+
         //Question: Pass/fail,total should be greater than or equal to 40% and at least 33% marks should be there in each subject to pass and 
         //input the data of 3 subs and calculate this:
         
