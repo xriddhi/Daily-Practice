@@ -141,3 +141,27 @@ class Main {
       System.out.println(i);
     }
   }
+          
+          //Write a program to print multiplication table of any given number n
+
+  public static void main(String[]args){
+    int mul= 0;
+    int n = 10;
+    for(int i=1;i<=10;i++){
+      System.out.println(n*i);
+    }
+    
+  }
+  //Write a program to print multiplication table of any given number n
+
+  public static void main(String[]args){
+    int mul= 0;
+    int n = 10;
+    for(int i=1;i<=10;i++){
+      System.out.println(n*i);
+    }
+    
+  }
+  
+          
+          //
