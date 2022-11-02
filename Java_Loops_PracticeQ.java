@@ -222,7 +222,7 @@ class Main {
       System.out.print(n);
       System.out.print("x");
       System.out.print(i);
-      System.out.println(":");
+      System.out.print(":");
       System.out.println(i*n);
       
     }
