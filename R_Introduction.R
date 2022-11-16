@@ -43,4 +43,4 @@ vegas <- "Go!"
 num_vector <- c("a","1","b")
 # c is for combining
 #c- concactination
-*
+
